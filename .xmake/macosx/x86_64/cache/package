@@ -1,0 +1,110 @@
+{
+    gtest = {
+        linkdirs = "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib",
+        static = true,
+        links = {
+            "gtest",
+            "gmock"
+        },
+        sysincludedirs = "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include",
+        __installdir = "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a",
+        __enabled = true,
+        libfiles = {
+            "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib/libgtest.a",
+            "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib/libgmock.a"
+        },
+        envs = {
+            DYLD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib"
+            },
+            LD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib"
+            }
+        },
+        __requirestr = "gtest"
+    },
+    ["protobuf-cpp"] = {
+        linkdirs = "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib",
+        static = true,
+        links = "protobuf",
+        sysincludedirs = "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include",
+        __installdir = "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434",
+        __enabled = true,
+        __requirestr = "protobuf-cpp",
+        libfiles = "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib/libprotobuf.a",
+        __extrainfo = {
+            system = false
+        },
+        envs = {
+            DYLD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib"
+            },
+            LD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib"
+            },
+            PATH = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/bin"
+            }
+        }
+    },
+    gflags = {
+        linkdirs = "/usr/local/Cellar/gflags/2.2.2/lib",
+        __enabled = true,
+        links = "gflags",
+        __requirestr = "gflags",
+        sysincludedirs = "/usr/local/Cellar/gflags/2.2.2/include",
+        envs = {
+            DYLD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/gflags/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            },
+            LD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/gflags/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            }
+        }
+    },
+    glog = {
+        linkdirs = "/usr/local/Cellar/glog/0.4.0/lib",
+        __enabled = true,
+        links = "glog.0.4.0",
+        __requirestr = "glog",
+        sysincludedirs = "/usr/local/Cellar/glog/0.4.0/include",
+        envs = {
+            DYLD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/glog/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            },
+            LD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/g/glog/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            }
+        }
+    },
+    Poco = {
+        linkdirs = "/usr/local/Cellar/Poco/1.10.1/lib",
+        __enabled = true,
+        links = {
+            "PocoXML.71",
+            "PocoUtil.71",
+            "PocoZip.71",
+            "PocoMongoDB.71",
+            "PocoJWT.71",
+            "PocoNet.71",
+            "PocoData.71",
+            "PocoCrypto.71",
+            "PocoRedis.71",
+            "PocoEncodings.71",
+            "PocoDataSQLite.71",
+            "PocoJSON.71",
+            "PocoFoundation.71",
+            "PocoNetSSL.71"
+        },
+        __requirestr = "Poco",
+        sysincludedirs = "/usr/local/Cellar/Poco/1.10.1/include",
+        envs = {
+            DYLD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/p/poco/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            },
+            LD_LIBRARY_PATH = {
+                "/Users/seaside/.xmake/packages/p/poco/b2de373ce88a4eaa806b6a0791ec3be6/lib"
+            }
+        }
+    }
+}

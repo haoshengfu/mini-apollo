@@ -1,0 +1,5 @@
+target("croutine")
+    set_kind("shared")
+    add_deps("common","event")
+    includes("*.h", {interface = true})
+    add_files("*.cpp", "detail/*.cpp", "detail/*.S")

@@ -1,0 +1,11 @@
+target("common")
+    set_kind("shared")
+    add_deps("proto")
+    includes("*.h", {interface = true})
+    add_files("*.cpp")
+
+-- target("common_test")
+--     set_kind("binary")
+--     includes("*.h")
+--     add_deps("core")
+--     add_files("*.cc")

@@ -1,0 +1,5 @@
+target("message")
+    set_kind("shared")
+    add_deps("common","proto")
+    includes("*.h", {interface = true})
+    add_files("*.cpp")

@@ -1,0 +1,10 @@
+module_config {
+    module_library : "/Users/seaside/Code/Resource/dig-into-apollo/miniapollo2/build/macosx/x86_64/debug/libexample.dylib"
+    timer_components {
+        class_name : "TimerComponentSample"
+        config {
+            name : "timer"
+            interval : 10
+        }
+    }    
+}

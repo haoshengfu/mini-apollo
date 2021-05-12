@@ -1,0 +1,5 @@
+target("node")
+    set_kind("shared")
+    add_deps("transport","scheduler","proto")
+    includes("*.h", {interface = true})
+    add_files("*.cpp")

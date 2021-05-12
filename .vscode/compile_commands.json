@@ -1,0 +1,321 @@
+[
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/state/macosx/x86_64/debug/cyber/state.cpp.o", "cyber/state.cpp"],
+  "file": "cyber/state.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/time/macosx/x86_64/debug/cyber/time/duration.cpp.o", "cyber/time/duration.cpp"],
+  "file": "cyber/time/duration.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/time/macosx/x86_64/debug/cyber/time/rate.cpp.o", "cyber/time/rate.cpp"],
+  "file": "cyber/time/rate.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/time/macosx/x86_64/debug/cyber/time/time.cpp.o", "cyber/time/time.cpp"],
+  "file": "cyber/time/time.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/miniapollo/macosx/x86_64/debug/cyber/mainboard/module_argument.cpp.o", "cyber/mainboard/module_argument.cpp"],
+  "file": "cyber/mainboard/module_argument.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/miniapollo/macosx/x86_64/debug/cyber/mainboard/module_controller.cpp.o", "cyber/mainboard/module_controller.cpp"],
+  "file": "cyber/mainboard/module_controller.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/miniapollo/macosx/x86_64/debug/cyber/mainboard/main.cpp.o", "cyber/mainboard/main.cpp"],
+  "file": "cyber/mainboard/main.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/topology_change.pb.cc.o", "cyber/proto/topology_change.pb.cc"],
+  "file": "cyber/proto/topology_change.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/dag_conf.pb.cc.o", "cyber/proto/dag_conf.pb.cc"],
+  "file": "cyber/proto/dag_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/cyber_conf.pb.cc.o", "cyber/proto/cyber_conf.pb.cc"],
+  "file": "cyber/proto/cyber_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/parameter.pb.cc.o", "cyber/proto/parameter.pb.cc"],
+  "file": "cyber/proto/parameter.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/classic_conf.pb.cc.o", "cyber/proto/classic_conf.pb.cc"],
+  "file": "cyber/proto/classic_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/scheduler_conf.pb.cc.o", "cyber/proto/scheduler_conf.pb.cc"],
+  "file": "cyber/proto/scheduler_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/role_attributes.pb.cc.o", "cyber/proto/role_attributes.pb.cc"],
+  "file": "cyber/proto/role_attributes.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/choreography_conf.pb.cc.o", "cyber/proto/choreography_conf.pb.cc"],
+  "file": "cyber/proto/choreography_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/perception.pb.cc.o", "cyber/proto/perception.pb.cc"],
+  "file": "cyber/proto/perception.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/qos_profile.pb.cc.o", "cyber/proto/qos_profile.pb.cc"],
+  "file": "cyber/proto/qos_profile.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/transport_conf.pb.cc.o", "cyber/proto/transport_conf.pb.cc"],
+  "file": "cyber/proto/transport_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/record.pb.cc.o", "cyber/proto/record.pb.cc"],
+  "file": "cyber/proto/record.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/run_mode_conf.pb.cc.o", "cyber/proto/run_mode_conf.pb.cc"],
+  "file": "cyber/proto/run_mode_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/proto_desc.pb.cc.o", "cyber/proto/proto_desc.pb.cc"],
+  "file": "cyber/proto/proto_desc.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/unit_test.pb.cc.o", "cyber/proto/unit_test.pb.cc"],
+  "file": "cyber/proto/unit_test.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/proto/macosx/x86_64/debug/cyber/proto/component_conf.pb.cc.o", "cyber/proto/component_conf.pb.cc"],
+  "file": "cyber/proto/component_conf.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/class_loader/macosx/x86_64/debug/cyber/class_loader/class_loader.cpp.o", "cyber/class_loader/class_loader.cpp"],
+  "file": "cyber/class_loader/class_loader.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/class_loader/macosx/x86_64/debug/cyber/class_loader/class_loader_manager.cpp.o", "cyber/class_loader/class_loader_manager.cpp"],
+  "file": "cyber/class_loader/class_loader_manager.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/class_loader/macosx/x86_64/debug/cyber/class_loader/utility/class_factory.cpp.o", "cyber/class_loader/utility/class_factory.cpp"],
+  "file": "cyber/class_loader/utility/class_factory.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/class_loader/macosx/x86_64/debug/cyber/class_loader/utility/class_loader_utility.cpp.o", "cyber/class_loader/utility/class_loader_utility.cpp"],
+  "file": "cyber/class_loader/utility/class_loader_utility.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/component/macosx/x86_64/debug/cyber/component/timer_component.cpp.o", "cyber/component/timer_component.cpp"],
+  "file": "cyber/component/timer_component.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/croutine/macosx/x86_64/debug/cyber/croutine/croutine.cpp.o", "cyber/croutine/croutine.cpp"],
+  "file": "cyber/croutine/croutine.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/croutine/macosx/x86_64/debug/cyber/croutine/detail/routine_context.cpp.o", "cyber/croutine/detail/routine_context.cpp"],
+  "file": "cyber/croutine/detail/routine_context.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/croutine/macosx/x86_64/debug/cyber/croutine/detail/swap.S.o", "cyber/croutine/detail/swap.S"],
+  "file": "cyber/croutine/detail/swap.S"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/logger/macosx/x86_64/debug/cyber/logger/async_logger.cpp.o", "cyber/logger/async_logger.cpp"],
+  "file": "cyber/logger/async_logger.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/logger/macosx/x86_64/debug/cyber/logger/logger_util.cpp.o", "cyber/logger/logger_util.cpp"],
+  "file": "cyber/logger/logger_util.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/logger/macosx/x86_64/debug/cyber/logger/log_file_object.cpp.o", "cyber/logger/log_file_object.cpp"],
+  "file": "cyber/logger/log_file_object.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/logger/macosx/x86_64/debug/cyber/logger/logger.cpp.o", "cyber/logger/logger.cpp"],
+  "file": "cyber/logger/logger.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/message/macosx/x86_64/debug/cyber/message/protobuf_factory.cpp.o", "cyber/message/protobuf_factory.cpp"],
+  "file": "cyber/message/protobuf_factory.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/node/macosx/x86_64/debug/cyber/node/node.cpp.o", "cyber/node/node.cpp"],
+  "file": "cyber/node/node.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/scheduler_factory.cpp.o", "cyber/scheduler/scheduler_factory.cpp"],
+  "file": "cyber/scheduler/scheduler_factory.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/processor.cpp.o", "cyber/scheduler/processor.cpp"],
+  "file": "cyber/scheduler/processor.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/processor_context.cpp.o", "cyber/scheduler/processor_context.cpp"],
+  "file": "cyber/scheduler/processor_context.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/scheduler.cpp.o", "cyber/scheduler/scheduler.cpp"],
+  "file": "cyber/scheduler/scheduler.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/policy/scheduler_classic.cpp.o", "cyber/scheduler/policy/scheduler_classic.cpp"],
+  "file": "cyber/scheduler/policy/scheduler_classic.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/scheduler/macosx/x86_64/debug/cyber/scheduler/policy/classic_context.cpp.o", "cyber/scheduler/policy/classic_context.cpp"],
+  "file": "cyber/scheduler/policy/classic_context.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/transport.cpp.o", "cyber/transport/transport.cpp"],
+  "file": "cyber/transport/transport.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/common/endpoint.cpp.o", "cyber/transport/common/endpoint.cpp"],
+  "file": "cyber/transport/common/endpoint.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/common/identity.cpp.o", "cyber/transport/common/identity.cpp"],
+  "file": "cyber/transport/common/identity.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/dispatcher/intra_dispatcher.cpp.o", "cyber/transport/dispatcher/intra_dispatcher.cpp"],
+  "file": "cyber/transport/dispatcher/intra_dispatcher.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/dispatcher/dispatcher.cpp.o", "cyber/transport/dispatcher/dispatcher.cpp"],
+  "file": "cyber/transport/dispatcher/dispatcher.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/message/message_info.cpp.o", "cyber/transport/message/message_info.cpp"],
+  "file": "cyber/transport/message/message_info.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/transport/macosx/x86_64/debug/cyber/transport/qos/qos_profile_conf.cpp.o", "cyber/transport/qos/qos_profile_conf.cpp"],
+  "file": "cyber/transport/qos/qos_profile_conf.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/cyber/macosx/x86_64/debug/cyber/cyber.cpp.o", "cyber/cyber.cpp"],
+  "file": "cyber/cyber.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/cyber/macosx/x86_64/debug/cyber/init.cpp.o", "cyber/init.cpp"],
+  "file": "cyber/init.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/example/macosx/x86_64/debug/cyber/examples/common_component/test.cpp.o", "cyber/examples/common_component/test.cpp"],
+  "file": "cyber/examples/common_component/test.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/example/macosx/x86_64/debug/cyber/examples/proto/examples.pb.cc.o", "cyber/examples/proto/examples.pb.cc"],
+  "file": "cyber/examples/proto/examples.pb.cc"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/task/macosx/x86_64/debug/cyber/task/task_manager.cpp.o", "cyber/task/task_manager.cpp"],
+  "file": "cyber/task/task_manager.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/blocker/macosx/x86_64/debug/cyber/blocker/blocker_manager.cpp.o", "cyber/blocker/blocker_manager.cpp"],
+  "file": "cyber/blocker/blocker_manager.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/timer/macosx/x86_64/debug/cyber/timer/timer.cpp.o", "cyber/timer/timer.cpp"],
+  "file": "cyber/timer/timer.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/timer/macosx/x86_64/debug/cyber/timer/timing_slot.cpp.o", "cyber/timer/timing_slot.cpp"],
+  "file": "cyber/timer/timing_slot.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/timer/macosx/x86_64/debug/cyber/timer/timing_wheel.cpp.o", "cyber/timer/timing_wheel.cpp"],
+  "file": "cyber/timer/timing_wheel.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/timer/macosx/x86_64/debug/cyber/timer/timer_manager.cpp.o", "cyber/timer/timer_manager.cpp"],
+  "file": "cyber/timer/timer_manager.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/timer/macosx/x86_64/debug/cyber/timer/timer_task.cpp.o", "cyber/timer/timer_task.cpp"],
+  "file": "cyber/timer/timer_task.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/common/macosx/x86_64/debug/cyber/common/global_data.cpp.o", "cyber/common/global_data.cpp"],
+  "file": "cyber/common/global_data.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/common/macosx/x86_64/debug/cyber/common/file.cpp.o", "cyber/common/file.cpp"],
+  "file": "cyber/common/file.cpp"
+},
+{
+  "directory": "/Users/seaside/Desktop/mini-apollo",
+  "arguments": ["/usr/bin/xcrun -sdk macosx clang", "-c", "-Qunused-arguments", "-arch", "x86_64", "-fPIC", "-std=c++17", "-I", "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include", "-I", "/usr/local/Cellar/gflags/2.2.2/include", "-I", "/usr/local/Cellar/glog/0.4.0/include", "-I", "/usr/local/Cellar/Poco/1.10.1/include", "-I", "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include", "-o", "build/.objs/event/macosx/x86_64/debug/cyber/event/perf_event_cache.cpp.o", "cyber/event/perf_event_cache.cpp"],
+  "file": "cyber/event/perf_event_cache.cpp"
+}]

@@ -1,0 +1,107 @@
+{
+    ["detect.sdks.find_xcode"] = {
+        xcode = { }
+    },
+    find_program = {
+        gzip = "/usr/bin/gzip",
+        dmd = false,
+        gdc = false,
+        ping = "/sbin/ping",
+        ccache = false,
+        unzip = "/usr/bin/unzip",
+        ["pkg-config"] = "/usr/local/bin/pkg-config",
+        tar = "/usr/bin/tar",
+        brew = "/usr/local/bin/brew",
+        zig = false,
+        git = "/usr/local/bin/git",
+        ldc2 = false
+    },
+    find_program_xcode_arch_x86_64_plat_macosx_checktoolcxx = {
+        ["xcrun -sdk macosx clang"] = "/usr/bin/xcrun -sdk macosx clang"
+    },
+    find_package_macosx_x86_64_fetch_package_system = {
+        glog_b2de373ce88a4eaa806b6a0791ec3be6_release_external = {
+            sysincludedirs = "/usr/local/Cellar/glog/0.4.0/include",
+            links = {
+                "glog.0.4.0"
+            },
+            linkdirs = {
+                "/usr/local/Cellar/glog/0.4.0/lib"
+            }
+        },
+        gflags_b2de373ce88a4eaa806b6a0791ec3be6_release_external = {
+            sysincludedirs = {
+                "/usr/local/Cellar/gflags/2.2.2/include"
+            },
+            links = {
+                "gflags"
+            },
+            version = "2.2.2",
+            linkdirs = {
+                "/usr/local/Cellar/gflags/2.2.2/lib"
+            }
+        },
+        Poco_b2de373ce88a4eaa806b6a0791ec3be6_release_external = {
+            sysincludedirs = "/usr/local/Cellar/Poco/1.10.1/include",
+            links = {
+                "PocoXML.71",
+                "PocoUtil.71",
+                "PocoZip.71",
+                "PocoMongoDB.71",
+                "PocoJWT.71",
+                "PocoNet.71",
+                "PocoData.71",
+                "PocoCrypto.71",
+                "PocoRedis.71",
+                "PocoEncodings.71",
+                "PocoDataSQLite.71",
+                "PocoJSON.71",
+                "PocoFoundation.71",
+                "PocoNetSSL.71"
+            },
+            linkdirs = {
+                "/usr/local/Cellar/Poco/1.10.1/lib"
+            }
+        }
+    },
+    find_package_macosx_x86_64_fetch_package_xmake = {
+        ["xmake::Poco_b2de373ce88a4eaa806b6a0791ec3be6_release_external"] = false,
+        ["xmake::glog_b2de373ce88a4eaa806b6a0791ec3be6_release_external"] = false,
+        ["xmake::gflags_b2de373ce88a4eaa806b6a0791ec3be6_release_external"] = false,
+        ["xmake::gtest_e50b006d49f747cc9ffdbe524ee4f22a_release_1.10.0_external"] = {
+            links = {
+                "gtest",
+                "gmock"
+            },
+            linkdirs = {
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib"
+            },
+            sysincludedirs = {
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/include"
+            },
+            libfiles = {
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib/libgtest.a",
+                "/Users/seaside/.xmake/packages/g/gtest/1.10.0/e50b006d49f747cc9ffdbe524ee4f22a/lib/libgmock.a"
+            },
+            static = true
+        },
+        ["xmake::protobuf-cpp_6c4662c08c5f4cee8a4a04ec43f24434_release_3.15.5_external"] = {
+            links = {
+                "protobuf"
+            },
+            linkdirs = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib"
+            },
+            sysincludedirs = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/include"
+            },
+            libfiles = {
+                "/Users/seaside/.xmake/packages/p/protobuf-cpp/3.15.5/6c4662c08c5f4cee8a4a04ec43f24434/lib/libprotobuf.a"
+            },
+            static = true
+        }
+    },
+    find_program_xcode_arch_x86_64_plat_macosx_checktoolas = {
+        ["xcrun -sdk macosx clang"] = "/usr/bin/xcrun -sdk macosx clang"
+    }
+}

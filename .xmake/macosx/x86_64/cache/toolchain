@@ -1,0 +1,207 @@
+{
+    tool_target_node_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_component_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_transport_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_scheduler_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_state_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_message_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_miniapollo_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_proto_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_blocker_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    xcode_arch_x86_64_plat_macosx = {
+        plat = "macosx",
+        arch = "x86_64",
+        __global = true
+    },
+    tool_target_logger_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_croutine_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_cyber_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_class_loader_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_timer_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_time_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_example_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_task_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_event_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_common_macosx_x86_64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    },
+    tool_target_croutine_macosx_x86_64_as = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolchain_info = {
+            plat = "macosx",
+            name = "xcode",
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            arch = "x86_64"
+        },
+        toolname = "clang"
+    }
+}

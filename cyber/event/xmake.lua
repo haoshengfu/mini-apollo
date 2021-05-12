@@ -1,0 +1,5 @@
+target("event")
+    set_kind("shared")
+    add_deps("state","common","time")
+    includes("*.h", {interface = true})
+    add_files("*.cpp")

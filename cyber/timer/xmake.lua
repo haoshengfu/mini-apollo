@@ -1,0 +1,5 @@
+target("timer")
+    set_kind("shared")
+    add_deps("time","task","scheduler")
+    includes("*.h", {interface = true})
+    add_files("*.cpp")

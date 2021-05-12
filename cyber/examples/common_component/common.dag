@@ -1,0 +1,16 @@
+# Define all coms in DAG streaming.
+    module_config {
+    module_library : "/Users/seaside/Desktop/mini-apollo/build/macosx/x86_64/debug/libexample.dylib"
+    components {
+        class_name : "CommonComponentSample"
+        config {
+            name : "common"
+            readers {
+                channel: "/apollo/prediction"
+            }
+            readers {
+                channel: "/apollo/test"
+            }
+        }
+      }
+    }

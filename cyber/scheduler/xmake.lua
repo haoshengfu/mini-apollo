@@ -1,0 +1,5 @@
+target("scheduler")
+    set_kind("shared")
+    add_deps("croutine","proto")
+    includes("*.h", {interface = true})
+    add_files("*.cpp", "policy/*.cpp")
